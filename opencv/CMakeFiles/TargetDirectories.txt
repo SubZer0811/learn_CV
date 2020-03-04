@@ -1,0 +1,8 @@
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/rebuild_cache.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/edit_cache.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/trackbar.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/object_detect.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/contour.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/video.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/con_vid.dir
+/home/sub0811/Desktop/practice/opencv/CMakeFiles/camera.dir
