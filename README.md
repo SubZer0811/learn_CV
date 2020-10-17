@@ -1,3 +1,3 @@
-# My_Codes
+# CV
 
-These are some of the codes that I wrote. Feel free to fork and utilize any code.
+These are some of the random computer vision codes that I coded while playing around with OpenCV on C++ and python.
